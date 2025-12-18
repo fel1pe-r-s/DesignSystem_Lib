@@ -9,5 +9,19 @@
   },
   "devDependencies": {
     "turbo": "^1.12.3"
-  }
+  },
+  "description": "**Internal Path**: `01_Projetos/DesignSystem_Lib`",
+  "keywords": [
+    "css",
+    "docker",
+    "git",
+    "githubactions",
+    "html",
+    "javascript",
+    "markdown",
+    "monorepo",
+    "node",
+    "react",
+    "typescript"
+  ]
 }
